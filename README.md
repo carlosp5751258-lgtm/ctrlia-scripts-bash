@@ -31,4 +31,4 @@ Esta es la versión gratis y funciona sola. La **versión Pro** añade:
 👉 [Ver la versión Pro](https://claudecodees.gumroad.com/l/scripts-bash-devs) · paga lo que quieras desde 2 USD. Comprarla también ayuda a que sigamos publicando recursos gratis.
 
 ---
-Parte de **[Ctrl+IA](https://carlosp5751258-lgtm.github.io/ctrlia/)**: recursos en español para programar con IA. Hecho por Carlos P.
+Parte de **[Ctrl+IA](https://ctrlia.dev/)**: recursos en español para programar con IA. Hecho por Carlos P.
