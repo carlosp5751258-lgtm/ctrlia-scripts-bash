@@ -1,5 +1,7 @@
 # Scripts Bash para desarrolladores en Linux (gratis)
 
+🇬🇧 [Read in English](README.en.md)
+
 Scripts seguros y comentados en español: vista previa antes de borrar y confirmación en todo lo destructivo.
 
 **Gratis y de código abierto (MIT).** Úsalo en tus proyectos y en los de tus clientes.
@@ -29,6 +31,10 @@ Esta es la versión gratis y funciona sola. La **versión Pro** añade:
 - 7 scripts más: backups con rotación, preparar Ubuntu con nvm y uv, nuevo proyecto, renombrar en lote, monitor de recursos, certificados SSL y compresión de imágenes
 
 👉 [Ver la versión Pro](https://claudecodees.gumroad.com/l/scripts-bash-devs) · paga lo que quieras desde 2 USD. Comprarla también ayuda a que sigamos publicando recursos gratis.
+
+## Licencia
+
+MIT: puedes usarlo, modificarlo y compartirlo, también en proyectos comerciales. Ver [LICENSE](LICENSE).
 
 ---
 Parte de **[Ctrl+IA](https://ctrlia.dev/)**: recursos en español para programar con IA. Hecho por Carlos P.
